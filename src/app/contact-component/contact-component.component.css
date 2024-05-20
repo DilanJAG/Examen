@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    font-family: "Mooli", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.form {
+    max-width: 400px;
+    width: 100%;
+    padding: 40px;
+    border: 1px solid #dad7d7;
+    border-radius: 5px;
+    margin-bottom: auto; 
+    font-family: "Mooli", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+  
+.submit-button {
+    align-self: center; 
+    margin-top: 20px;
+    
+}
